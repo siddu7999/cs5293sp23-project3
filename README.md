@@ -43,6 +43,8 @@ The following dependencies are required to run the code:
 
 * The output will be a TSV file named smartcity_predictions.tsv containing the city name, the raw text extracted from the PDF, the cleaned text, and the cluster ID assigned to that city.
 
+* pipenv run python project3.py --document "Oklahoma.pdf" this command is used to execute program
+
 ## Machine Learning Model
 
 * The code uses a pre-trained machine learning model to cluster the PDF files. 
